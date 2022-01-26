@@ -30,3 +30,5 @@ I have good experience with server administration of linux and windows servers. 
 Currently working for Severstal, developing automation solutions for  inner and outer clients. 
 
 For now I’m open to job offers, I’m looking for something that I will enjoy doing, such as game development or backend development. I’m always ready to learn new technologies and for extending my field of view.
+
+[PDF version](https://github.com/LutzGebelman/LutzGebelman.Github.io/blob/main/Osipov_Yuri_Developer_CV.pdf)
