@@ -10,7 +10,8 @@ Self taught developer
 |Period|Company|Position|Responsibilities|
 |---|---|---|---|
 |September 2016 -- Present time | Startup | Lead Developer and Server administrator | Development of custom scripts for gaming needs; <br> Maintaining the stability of the server;<br> Full configuration of the physical machine (Assembly, software installation); |
-|June 2021 -- Present time | LLC Severstal | Developer | Development of robots in VBA and Python to improve the company's internal buisiness processes |
+|June 2021 -- march 2022 | LLC Severstal | Developer | Development of robots in VBA and Python to improve the company's internal buisiness processes |
+|march 2022 -- present time | LLC Pikta | Senior Developer | Development of robots in VBA and Python to improve the company's internal buisiness processes |
 
 ## Programming skills
 |Lagueges|Databases|Tools and Technologies|
