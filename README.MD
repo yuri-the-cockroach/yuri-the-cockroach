@@ -20,7 +20,7 @@ Self taught developer
 
 ## Other Skills
 
-Languages: Russian (Native); English (betwin Advanced and Proficient).
+Languages: Russian (Native); English (between Advanced and Proficient).
 
 ## About me
 I’m a software developer with over than 5 years of experience with different technologies including C, C++, Python(Many modules including requests, asyncio, python-valve etc), Lua and many more.
