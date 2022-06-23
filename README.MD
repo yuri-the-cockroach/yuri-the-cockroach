@@ -37,4 +37,4 @@ For now I’m open to job offers, I’m looking for something that I will enjoy 
 
 My goal for 2022 is to learn Rust and find an opportunity to use it in some interesting project.
 
-[PDF version](https://github.com/LutzGebelman/LutzGebelman.Github.io/blob/main/Osipov_Yuri_Developer_CV.pdf)
+[PDF version](Osipov_Yuri_Developer_CV.pdf)
