@@ -11,7 +11,7 @@ Self taught developer
 
 |Period|Company|Position|Responsibilities|
 |---|---|---|---|
-|September 2016 -- Present time | Startup | Lead Developer and Server administrator | Development of custom scripts for gaming needs; <br> Maintaining the stability of the server;<br> Full configuration of the physical machine (Assembly, software installation); |
+|January 2016 -- January 2021 | Startup | Lead Developer and Server administrator | Development of custom scripts for gaming needs; <br> Maintaining the stability of the server;<br> Full configuration of the physical machine (Assembly, software installation); |
 |June 2021 -- march 2022 | LLC Sevserstal | Developer | Development of robots in VBA and Python to improve the company's internal business processes |
 |march 2022 -- july 2022 | LLC Pikta | Senior Developer | Development of robots in VBA and Python to improve the company's internal business processes |
 
