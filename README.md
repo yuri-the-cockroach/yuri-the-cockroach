@@ -1,7 +1,7 @@
 # Yuri The Cockroach
 ### Education
 
-Fucking retard
+A certified retard
 
 ### Experience
 
