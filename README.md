@@ -1,20 +1,20 @@
 # Yuri The Cockroach
-## Education
+### Education
 
 Fucking retard
 
-## Experience
+### Experience
 
 10 years of depression
 
-## Programming skills
+### Programming skills
 
 Can automate self-destruction
 
-## Other Skills
+### Other Skills
 
 Can identify a song by hearing two seconds of it
 
-## About me
+### About me
 
-I love computers, linux software and hardware development. But I fucking hate corporate bullshit. That is the reason I refuse to work in software development. I've had enough.
+I love computers, Linux, software and hardware development. But I fucking hate corporate bullshit. That's the reason I refuse to work in commercial software development. I've had enough.
