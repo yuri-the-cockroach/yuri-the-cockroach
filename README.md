@@ -1,21 +1,17 @@
 # Yuri The Cockroach
 ### Education
 
-A certified retard
+I don't have an official degree, as I had to leave russia before I had a chance to finished the unevercity, by my skill are extencive and I even had a chance to get some commertial experience
 
 ### Experience
 
-10 years of depression
+I have 1.5 years of commertial experience working as a software engineer, but my non-commertial experience is much more extencive.
 
 ### Programming skills
 
-Can automate self-destruction
+A have a very wide skillset that includes scripting languages such as bash, interpreted languages such as python and compiled languages such as C.
 
-### Other Skills
-
-Can identify a song by hearing two seconds of it
+I always loved learning new things and doing a lot of thing myself just for the sake of it. So now I'm able to work with linux system adminisration, database management, writing custom software and a lot more interesting thing.
 
 ### About me
-
-I love computers, Linux, software and hardware development. But I fucking hate corporate bullshit. That's the reason I refuse to work in commercial software development. I've had enough.<br>
-Also I've migrated other to gitlab because I refuse to give microsoft my... Sorry, I forgot, what do they get from my shitty code again?
+My commercial experience might not be impressive, but software is my passion and I've been improving my skills daily for half a decade now and hope to use them to the fullest
