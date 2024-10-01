@@ -1,7 +1,7 @@
 # Yuri Osipov
 ### Education
 
-  * [ ] I don't have an official degree, as I had to leave russia before I had a chance to finished the univercity, by my skill are extencive and I even had a chance to get some commertial experience
+  * I don't have an official degree, as I had to leave russia before I had a chance to finished the univercity, by my skill are extencive and I even had a chance to get some commertial experience
 
 ### Experience
 
