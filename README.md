@@ -1,17 +1,19 @@
 # Yuri Osipov
 ### Education
 
-I don't have an official degree, as I had to leave russia before I had a chance to finished the unevercity, by my skill are extencive and I even had a chance to get some commertial experience
+I don't have an official degree, as I had to leave russia before I had a chance to finished the univercity, by my skill are extencive and I even had a chance to get some commertial experience
 
 ### Experience
 
-I have 1.5 years of commertial experience working as a software engineer, but my non-commertial experience is much more extencive.
+I have 1.5 years of commertial experience working as a software engineer, but my non-commertial experience is much more extencive (kill me).
 
 ### Programming skills
 
-A have a very wide skillset that includes scripting languages such as bash, interpreted languages such as python and compiled languages such as C.
+C == ❤️ 
+C++ < C
+Rust "the best language I've ever used" -- king Sisyphus 
+python The true calculator.
+Lua 🤡
+(setq lisp t) ;; WHY
 
-I always loved learning new things and doing a lot of thing myself just for the sake of it. So now I'm able to work with linux system adminisration, database management, writing custom software and a lot more interesting thing.
-
-### About me
-My commercial experience might not be impressive, but software is my passion and I've been improving my skills daily for half a decade now and hope to use them to the fullest
+I always loved learning new things and doing a lot of thing myself just for the sake of it. So now I'm using arch linux with hyprland and emacs to write C code. How the fuck did it come to this...
