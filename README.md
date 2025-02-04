@@ -1,7 +1,7 @@
 # Yuri Osipov
 ### Education
 
-![no](./education.jpeg)
+![no](https://gitlab.com/yuri-the-cockroach/yuri-the-cockroach/-/raw/master/education.jpeg)
 
 ### Experience
 
