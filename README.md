@@ -1,7 +1,7 @@
 # Yuri Osipov
 ### Education
 
-![no](education.jpeg)
+![no](./education.jpeg)
 
 ### Experience
 
